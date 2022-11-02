@@ -1,8 +1,9 @@
 import React from 'react'
-import 'src/app.scss'
+
 interface Props {
 
 }
+
 const App:React.FC<Props> = (props) => {
   return (
     <div>
