@@ -3,11 +3,11 @@ import 'src/app.scss'
 interface Props {
 
 }
-const app:React.FC<Props> = (props) => {
+const App:React.FC<Props> = (props) => {
   return (
     <div>
-    <h1>Hello World!</h1>
+    <h1>Hello World</h1>
     </div>
   )
 }
-export default app
+export default App
