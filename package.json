@@ -11,6 +11,7 @@
     "watch": "webpack --watch",
     "serve": "webpack serve",
     "test": "jest",
+    "test:watch": "jest --watchAll",
     "coverage": "jest --coverage"
   },
   "author": "",
